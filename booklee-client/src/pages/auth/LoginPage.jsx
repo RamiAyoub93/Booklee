@@ -44,6 +44,7 @@ export default function LoginPage() {
           </button>
         </form>
         <p style={styles.footer}>Inget konto? <Link to="/register">Registrera dig</Link></p>
+        {/* <p style={styles.footer}>Hemma <Link to="/Home">Hem</Link></p> */}
       </div>
     </div>
   )

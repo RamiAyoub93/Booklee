@@ -21,6 +21,7 @@ export default function ServiceCard({ service, companyId }) {
         </div>
       </div>
       <button onClick={handleBook} style={styles.btn}>Boka nu</button>
+       {/* <button onClick={handleBook1} style={styles.btn}>Tillbaka</button> */}
     </div>
   )
 }

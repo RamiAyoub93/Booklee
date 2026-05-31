@@ -38,6 +38,7 @@ export default function App() {
             <Route path="/company/bookings" element={<ProtectedRoute role="Owner"><CompanyBookings /></ProtectedRoute>} />
             <Route path="/company/services" element={<ProtectedRoute role="Owner"><ManageServices /></ProtectedRoute>} />
             <Route path="/company/availability" element={<ProtectedRoute role="Owner"><ManageAvailability /></ProtectedRoute>} />
+            {/* <Route path="/company/home" element={<CompanyHomePage />} /> */}
           </Routes>
         </div>
       </AuthProvider>
