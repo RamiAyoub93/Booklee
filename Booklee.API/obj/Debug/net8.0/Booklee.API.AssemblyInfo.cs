@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Booklee.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eb5fb6585508d9ad68155385c696bc28764ad35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Booklee.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Booklee.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
